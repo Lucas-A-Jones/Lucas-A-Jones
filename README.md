@@ -1,4 +1,10 @@
-### Hi there 👋
+### 🚀About me 
+
+🎓I am Lucas Jones, a University Student studying Software Engineering in the United Kingdom.
+
+💻 Right now most of my knowledge is surrounding Python, whilst currently learning Java as part of my degree 
+
+
 
 <!--
 **Lucas-A-Jones/Lucas-A-Jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
