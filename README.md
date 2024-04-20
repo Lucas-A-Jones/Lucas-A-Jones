@@ -6,7 +6,7 @@ date: '17-01-2024'
 ### Hi, I'm Lucas 👋
 ---
 
-#### I'm a Full Time University Student based in England.
+#### I'm a Full Time University Student based in the UK.
 
 - 🏢 I'm currently studying full-time with at **Cardiff Met University**
 - ⚙️ I use Python the most but in the process of learning Java for university
